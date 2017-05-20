@@ -1,0 +1,13 @@
+.first {
+  color: red;
+}
+
+.second{
+  color:blue;
+}
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("http://www.artofmtg.com/wp-content/uploads/2014/06/Jace-the-Mind-Sculptor-MtG-Planeswalker-Art.jpg")
+}
